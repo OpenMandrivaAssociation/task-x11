@@ -1,6 +1,6 @@
 Name: task-x11
-Version: 2007.1
-Release: %mkrel 2
+Version: 2008.0
+Release: %mkrel 1
 Summary: Metapackage for X.org X11
 Group: System/X11
 License: GPL
@@ -17,6 +17,7 @@ Requires: xfs
 Requires: x11-font-misc-misc
 Requires: x11-font-cursor-misc
 Requires: fonts-ttf-dejavu
+Requires: fonts-ttf-liberation
 Requires: x11-font-alias
 #
 Requires: setxkbmap
