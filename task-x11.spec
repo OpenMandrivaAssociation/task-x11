@@ -1,6 +1,6 @@
 Name: task-x11
 Version: 2008.0
-Release: %mkrel 2
+Release: %mkrel 3
 Summary: Metapackage for X.org X11
 Group: System/X11
 License: GPL
@@ -13,7 +13,6 @@ Requires: xhost
 #
 Requires: x11-driver-video
 #
-Requires: xfs
 Requires: x11-font-misc-misc
 Requires: x11-font-cursor-misc
 Requires: fonts-ttf-dejavu
