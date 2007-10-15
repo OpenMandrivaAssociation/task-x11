@@ -1,6 +1,6 @@
 Name: task-x11
-Version: 2008.0
-Release: %mkrel 4
+Version: 2008.1
+Release: %mkrel 1
 Summary: Metapackage for X.org X11
 Group: System/X11
 License: GPL
@@ -35,5 +35,4 @@ This package is a meta-package, meaning that its purpose is to contain
 dependencies for running X.org X11.
 
 %files
-
 
