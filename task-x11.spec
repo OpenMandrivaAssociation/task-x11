@@ -1,6 +1,6 @@
 Name: task-x11
 Version: 2008.1
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: Metapackage for X.org X11
 Group: System/X11
 License: GPL
@@ -25,6 +25,9 @@ Requires: xkbcomp
 Requires: x11-server-xorg
 #
 Requires: xinit
+#
+# for debugging multimedia keyboard inet(common) (cf x11-data-xkbdata):
+Requires: xev
 
 
 BuildArch: noarch
