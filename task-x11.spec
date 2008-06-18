@@ -1,6 +1,6 @@
 Name: task-x11
 Version: 2008.1
-Release: %mkrel 3
+Release: %mkrel 4
 Summary: Metapackage for X.org X11
 Group: System/X11
 License: GPL
