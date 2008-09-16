@@ -1,6 +1,6 @@
 Name: task-x11
 Version: 2009.0
-Release: %mkrel 2
+Release: %mkrel 3
 Summary: Metapackage for X.org X11
 Group: System/X11
 License: GPL
@@ -15,8 +15,8 @@ Suggests: x11-driver-video
 #
 Requires: x11-font-misc-misc
 Requires: x11-font-cursor-misc
-Requires: fonts-ttf-dejavu
-Requires: fonts-ttf-liberation
+Suggests: fonts-ttf-dejavu
+Suggests: fonts-ttf-liberation
 Requires: x11-font-alias
 #
 Requires: setxkbmap
