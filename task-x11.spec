@@ -1,6 +1,6 @@
 Name: task-x11
-Version: 2009.0
-Release: %mkrel 5
+Version: 2010.1
+Release: %mkrel 1
 Summary: Metapackage for X.org X11
 Group: System/X11
 License: GPL
