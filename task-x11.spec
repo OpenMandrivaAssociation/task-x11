@@ -1,6 +1,6 @@
 Name: task-x11
 Version: 2010.1
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: Metapackage for X.org X11
 Group: System/X11
 License: GPL
@@ -29,6 +29,8 @@ Requires: xinit
 # for debugging multimedia keyboard inet(common) (cf x11-data-xkbdata):
 Suggests: xev
 
+# Once task-x11_1.5 gets removed from snv we'll be able to kill this:
+Obsoletes: task-x11_1.5
 
 BuildArch: noarch
 BuildRoot: %{_tmppath}/%{name}-%{version}-root
