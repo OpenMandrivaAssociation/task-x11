@@ -1,6 +1,6 @@
 Name: task-x11
 Version: 2010.1
-Release: %mkrel 2
+Release: %mkrel 3
 Summary: Metapackage for X.org X11
 Group: System/X11
 License: GPL
@@ -20,7 +20,6 @@ Suggests: fonts-ttf-liberation
 Requires: x11-font-alias
 #
 Requires: setxkbmap
-Requires: xkbcomp
 #
 Requires: x11-server-xorg
 #
