@@ -28,9 +28,6 @@ Requires: xinit
 # for debugging multimedia keyboard inet(common) (cf x11-data-xkbdata):
 Suggests: xev
 
-# Once task-x11_1.5 gets removed from snv we'll be able to kill this:
-Obsoletes: task-x11_1.5
-
 BuildArch: noarch
 BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
