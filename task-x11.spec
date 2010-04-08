@@ -1,6 +1,6 @@
 Name: task-x11
 Version: 2010.1
-Release: %mkrel 3
+Release: %mkrel 4
 Summary: Metapackage for X.org X11
 Group: System/X11
 License: GPL
@@ -12,6 +12,7 @@ Requires: x11-data-cursor-themes
 Requires: xhost
 #
 Suggests: x11-driver-video
+Suggests: x11-driver-input
 #
 Requires: x11-font-misc-misc
 Requires: x11-font-cursor-misc
