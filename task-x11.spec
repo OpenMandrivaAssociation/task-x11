@@ -1,6 +1,6 @@
 Name: task-x11
 Version: %mandriva_release
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: Metapackage for X.org X11
 Group: System/X11
 License: GPL
