@@ -1,6 +1,6 @@
 Name:		task-x11
 Version:	%mandriva_release
-Release:	7
+Release:	8
 Summary:	Metapackage for X.org X11
 Group:		System/X11
 License:	GPL
