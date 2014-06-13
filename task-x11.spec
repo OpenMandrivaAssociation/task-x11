@@ -1,6 +1,6 @@
 Name:		task-x11
 Version:	%distro_release
-Release:	1
+Release:	2
 Summary:	Metapackage for X.org X11
 Group:		System/X11
 License:	GPL
