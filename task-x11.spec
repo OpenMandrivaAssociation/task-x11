@@ -1,6 +1,6 @@
 Name:		task-x11
 Version:	%distro_release
-Release:	2.2
+Release:	2.3
 Summary:	Metapackage for X.org X11
 Group:		System/X11
 License:	GPL
@@ -22,7 +22,6 @@ Requires:	xinit
 # for debugging multimedia keyboard inet(common) (cf x11-data-xkbdata):
 Suggests:	xev
 # needed for locales cache
-Requires:	mkcomposecache
 Requires:	x11-compose-cache
 
 BuildArch:	noarch
