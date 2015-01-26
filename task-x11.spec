@@ -1,6 +1,6 @@
 Name:		task-x11
 Version:	2015.0
-Release:	6
+Release:	7
 Summary:	Metapackage for X.org X11
 Group:		System/X11
 License:	GPL
@@ -18,6 +18,7 @@ Suggests:	fonts-ttf-liberation
 Requires:	x11-font-alias
 Requires:	setxkbmap
 Requires:	x11-server-xorg
+Requires:	x11-server-xwayland
 Requires:	xinit
 # for debugging multimedia keyboard inet(common) (cf x11-data-xkbdata):
 Suggests:	xev
