@@ -1,6 +1,6 @@
 Name:		task-x11
 Version:	2015.0
-Release:	8
+Release:	9
 Summary:	Metapackage for X.org X11
 Group:		System/X11
 License:	GPL
@@ -20,6 +20,7 @@ Requires:	setxkbmap
 Requires:	x11-server-xorg
 Requires:	x11-server-xwayland
 Requires:	xinit
+Requires:	dri-drivers
 # for debugging multimedia keyboard inet(common) (cf x11-data-xkbdata):
 Suggests:	xev
 # needed for locales cache
