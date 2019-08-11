@@ -23,8 +23,6 @@ Requires:	xinit
 Requires:	dri-drivers
 # for debugging multimedia keyboard inet(common) (cf x11-data-xkbdata):
 Suggests:	xev
-# needed for locales cache
-Requires:	x11-compose-cache
 
 BuildArch:	noarch
 
