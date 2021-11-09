@@ -1,6 +1,6 @@
 Name:		task-x11
 Version:	2015.0
-Release:	14
+Release:	15
 Summary:	Metapackage for X.org X11
 Group:		System/X11
 License:	GPL
